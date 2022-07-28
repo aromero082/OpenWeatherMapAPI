@@ -1,0 +1,16 @@
+C:\Users\arome\source\repos\OpenWeatherAppAPI\OpenWeatherAppAPI\bin\Debug\netcoreapp3.1\OpenWeatherMapAPI.exe
+C:\Users\arome\source\repos\OpenWeatherAppAPI\OpenWeatherAppAPI\bin\Debug\netcoreapp3.1\OpenWeatherMapAPI.deps.json
+C:\Users\arome\source\repos\OpenWeatherAppAPI\OpenWeatherAppAPI\bin\Debug\netcoreapp3.1\OpenWeatherMapAPI.runtimeconfig.json
+C:\Users\arome\source\repos\OpenWeatherAppAPI\OpenWeatherAppAPI\bin\Debug\netcoreapp3.1\OpenWeatherMapAPI.runtimeconfig.dev.json
+C:\Users\arome\source\repos\OpenWeatherAppAPI\OpenWeatherAppAPI\bin\Debug\netcoreapp3.1\OpenWeatherMapAPI.dll
+C:\Users\arome\source\repos\OpenWeatherAppAPI\OpenWeatherAppAPI\bin\Debug\netcoreapp3.1\OpenWeatherMapAPI.pdb
+C:\Users\arome\source\repos\OpenWeatherAppAPI\OpenWeatherAppAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\arome\source\repos\OpenWeatherAppAPI\OpenWeatherAppAPI\obj\Debug\netcoreapp3.1\OpenWeatherMapAPI.csproj.AssemblyReference.cache
+C:\Users\arome\source\repos\OpenWeatherAppAPI\OpenWeatherAppAPI\obj\Debug\netcoreapp3.1\OpenWeatherMapAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arome\source\repos\OpenWeatherAppAPI\OpenWeatherAppAPI\obj\Debug\netcoreapp3.1\OpenWeatherMapAPI.AssemblyInfoInputs.cache
+C:\Users\arome\source\repos\OpenWeatherAppAPI\OpenWeatherAppAPI\obj\Debug\netcoreapp3.1\OpenWeatherMapAPI.AssemblyInfo.cs
+C:\Users\arome\source\repos\OpenWeatherAppAPI\OpenWeatherAppAPI\obj\Debug\netcoreapp3.1\OpenWeatherMapAPI.csproj.CoreCompileInputs.cache
+C:\Users\arome\source\repos\OpenWeatherAppAPI\OpenWeatherAppAPI\obj\Debug\netcoreapp3.1\OpenWeatherMapAPI.csproj.CopyComplete
+C:\Users\arome\source\repos\OpenWeatherAppAPI\OpenWeatherAppAPI\obj\Debug\netcoreapp3.1\OpenWeatherMapAPI.dll
+C:\Users\arome\source\repos\OpenWeatherAppAPI\OpenWeatherAppAPI\obj\Debug\netcoreapp3.1\OpenWeatherMapAPI.pdb
+C:\Users\arome\source\repos\OpenWeatherAppAPI\OpenWeatherAppAPI\obj\Debug\netcoreapp3.1\OpenWeatherMapAPI.genruntimeconfig.cache
